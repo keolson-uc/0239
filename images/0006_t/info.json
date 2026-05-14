@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 14
+  }, {
+    "width" : 27,
+    "height" : 28
+  }, {
+    "width" : 54,
+    "height" : 56
+  }, {
+    "width" : 108,
+    "height" : 112
+  }, {
+    "width" : 216,
+    "height" : 223
+  }, {
+    "width" : 432,
+    "height" : 445
+  } ],
+  "profile" : "level0",
+  "width" : 432,
+  "id" : "https://keolson-uc.github.io/0239/images/0006_t",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 445
+}
